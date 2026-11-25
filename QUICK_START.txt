@@ -1,0 +1,5 @@
+QUICK START 1. Install Python 3.10+ 2. Open terminal in this folder 3.
+pip install -r requirements.txt 4. python train_model.py 5. streamlit
+run app.py 6. Open the localhost URL printed in the terminal.
+
+NOTE: The included dataset is synthetic demonstration data only.
